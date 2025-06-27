@@ -17,4 +17,5 @@ Ferramenta prática de simulação de investimentos em fundos imobiliários. A p
 
 Gráfico com distribuição dos investimentos
 
-![Captura de tela 2025-06-27 164758](https://github.com/user-attachments/assets/ad22a8f7-17a4-4884-892c-07ab51df008b)
+![Captura de tela 2025-06-27 165335](https://github.com/user-attachments/assets/aea26807-8a33-4ece-8067-64c786b2e944)
+
