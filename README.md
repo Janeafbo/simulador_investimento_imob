@@ -15,5 +15,6 @@ Ferramenta prática de simulação de investimentos em fundos imobiliários. A p
 - Perfil do invetidor: conservador, moderado, agressivo. Conforme for selecionado o perfil, são feitos cálculos com percentuais sugeridos em diversos tipos de FIIs com base no aporte.
 -Simulador de investimentos imobiliários
 
-![Captura de tela 2025-06-27 164758](https://github.com/user-attachments/assets/6ecd1f3b-f109-4869-a42c-61f2ffd24a03)
+Gráfico com distribuição dos investimentos
 
+![Captura de tela 2025-06-27 164758](https://github.com/user-attachments/assets/ad22a8f7-17a4-4884-892c-07ab51df008b)
