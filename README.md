@@ -1,5 +1,5 @@
 ### Simulador investimento FIIs
-Ferramenta de simulação de investimentos imobiliário em Excel.
+Ferramenta de simulação de investimentos imobiliários em Excel.
 
 ## Objetivo 
 Ferramenta prática de simulação de investimentos em fundos imobiliários. A partir de uma compreensão aprofundada sobre como os fundos imobiliários funcionam e as perguntas típicas dos investidores (quanto investir, por quanto tempo, taxa de rendimento, etc.), planilha que ajuda o usuário a realizar essas simulações, auxiliando-o a tomar decisões mais informadas sobre seus investimentos. A solução proposta visa automatizar cálculos complexos, como o valor total investido, o patrimônio acumulado e os dividendos mensais, proporcionando ao usuário uma visão clara de seu potencial retorno.
