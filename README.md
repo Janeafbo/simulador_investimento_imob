@@ -13,9 +13,16 @@ Ferramenta prática de simulação de investimentos em fundos imobiliários. A p
 - Cenários: várias possibilidades de simulações de investimento em relação ao tempo.
 
 - Perfil do invetidor: conservador, moderado, agressivo. Conforme for selecionado o perfil, são feitos cálculos com percentuais sugeridos em diversos tipos de FIIs com base no aporte.
--Simulador de investimentos imobiliários
 
-Gráfico com distribuição dos investimentos
+- Gráfico com distribuição dos investimentos
 
-![Captura de tela 2025-06-27 165335](https://github.com/user-attachments/assets/aea26807-8a33-4ece-8067-64c786b2e944)
+![Captura de tela 2025-06-27 165335](https://github.com/user-attachments/assets/4dfe3e22-629e-491a-b804-f598ca602b5d) ![Captura de tela 2025-06-27 165557](https://github.com/user-attachments/assets/24a32b5a-6092-42c9-b577-423b0a4a56b0)
+
+
+
+
+
+
+
+
 
